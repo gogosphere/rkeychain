@@ -8,7 +8,7 @@ $ cd rkeychain
 $ gem install rkeychain
 ``` 
 Usage:
-The objecty should be a application password keychain object, and the string you pass is the account.
+This uses the application password keychain object and the string you pass is the account.
 
 ```ruby
 require 'rkeychain'
