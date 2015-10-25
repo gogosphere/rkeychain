@@ -2,8 +2,8 @@
 Stupid simple gem to pull passwords from OSX keychain.
 
 Installation
-
-$ gem install lotus-utils
+$ 
+$ gem install rkeychain
 
 Usage:
 ```ruby
