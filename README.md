@@ -1,11 +1,12 @@
 # rkeychain
 Stupid simple gem to pull passwords from OSX keychain.
 
-Installation
+Installation:
+```bash
 $ git clone https://github.com/williamrhancock/rkeychain.git
 $ cd rkeychain
 $ gem install rkeychain
-
+``` 
 Usage:
 ```ruby
 require 'rkeychain'
